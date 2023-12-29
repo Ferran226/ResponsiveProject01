@@ -8,7 +8,7 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 ---
 
 <div align="center">
-  <img src="layout.png" alt="Layout" width="590" height="500"/>
+  <img src="layout.png" alt="Layout" width="55%"/>
 </div>
 
 
@@ -39,7 +39,7 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 ---
 
 <div align="center">
-  <img src="espanol-banner.png" alt="Banner" width="600"/>
+  <img src="espanol-banner.png" alt="Banner" width="35%"/>
 </div>
 
 
@@ -47,7 +47,6 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 
 ¡Las contribuciones son bienvenidas! Si encuentras problemas, tienes ideas para mejoras o deseas agregar nuevas características, por favor abre un problema o una solicitud de extracción.
 
----
 
 ## Trabajo Freelance 💼
 
