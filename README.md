@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #0366d6;">
-   Header Responsive con HTML y Sass 🌐
+   LandingPro: Maestría Responsiva al Descubierto 🌐
 </h1>
 
 
