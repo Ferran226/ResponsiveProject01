@@ -7,9 +7,9 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 
 ---
 
-<p align="center">
-      <img src="layout.png" alt="Layout" width="590" height="500/>
-</p>
+<div align="center">
+  <img src="layout.png" alt="Layout" width="590" height="500"/>
+</div>
 
 
 ---
@@ -38,7 +38,10 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 
 ---
 
-![banner](espanol-banner.png)
+<div align="center">
+  <img src="espanol-banner.png" alt="Banner" width="600"/>
+</div>
+
 
 ## Contribuciones 🤝
 
