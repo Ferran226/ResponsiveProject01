@@ -3,7 +3,7 @@
 </h1>
 
 
-Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.
+Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.
 
 ---
 
