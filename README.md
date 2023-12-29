@@ -8,8 +8,9 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 ---
 
 <p align="center">
-      <img src="layout.png" alt="Layout" width="650" height="500/>
+      <img src="layout.png" alt="Layout" width="590" height="500/>
 </p>
+
 
 ---
 
