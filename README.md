@@ -20,10 +20,10 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 ## Tecnologías Utilizadas ⚙️
 
 - **HTML:** 📝 El markup semántico se ha implementado para mejorar la accesibilidad y facilitar el mantenimiento del código.
-- [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](Header/index.html)
+- [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](src/index.html)
 
 - **Sass:** 🎨 Se ha utilizado Sass para organizar y modularizar el código CSS, mejorando la legibilidad y facilitando futuras expansiones.
-- [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](Header/Sass/)
+- [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](src/sass/)
 
 ## Contribuciones 🤝
 
