@@ -22,6 +22,7 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 - **Diseño Fluid Grid:** 🎨 Utiliza un diseño basado en un grid fluido para garantizar que el contenido se adapte a diferentes tamaños de pantalla de manera elegante.
 
 - **Media Queries:** 🖥️ Se han implementado media queries para optimizar la presentación en dispositivos específicos, como:
+
   - Tablets (768px)
   - Tablets horizontales (1024px)
   - Pantallas de escritorio (1200px)
@@ -34,6 +35,10 @@ Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML 
 
 - **Sass:** 🎨 Se ha utilizado Sass para organizar y modularizar el código CSS, mejorando la legibilidad y facilitando futuras expansiones.
 - [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](src/sass/)
+
+---
+
+![banner](espanol-banner.png)
 
 ## Contribuciones 🤝
 
