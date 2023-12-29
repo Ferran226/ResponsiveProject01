@@ -5,9 +5,9 @@
 
 Este proyecto presenta un ejemplo de un header responsive desarrollado con HTML y Sass, diseñado para adaptarse de manera óptima a dispositivos móviles, tablets y pantallas de escritorio en diferentes tamaños.
 
-<div align="center">
-  <img src="layout.png" alt="Layout" width="650" height="500/>
-</div>
+<p align="center">
+      <img src="layout.png" alt="Layout" width="650" height="500/>
+</p>
 
 
 ## Características Principales 🚀
